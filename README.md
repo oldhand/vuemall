@@ -26,6 +26,13 @@
 ## DEMO
 http://mall.tezan.cn/test.php
 
+## 布署
+- install.sh 安装
+- start.sh 启动
+- pack.sh 打包，打包后存放在dist目录下
+- 准备一个php的空间，存放home.php入口文件，微信的oauth2认证，请自行研究，看懂home.php就明白程序如何使用。
+
+
 ## 图片展示
  
 <table>
