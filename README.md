@@ -1,14 +1,14 @@
 # wxmall
 <h1 align="center">
   <br>
-  <a href="https://github.com/oldhand/htdocs"><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_romijia_home.jpg" width="300"></a>
+  <a href="https://github.com/oldhand/htdocs"><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_home.jpg" width="300"></a>
   <br>
   wxmall
   <br>
 </h1>
 
 <h4 align="center">
-    PHP开发的微信公众号商城
+    VUE开发的微信公众号商城
   <br><br>
   Support By <a href="https://github.com/oldhand" target="_blank">oldhand</a>.
 </h4>
@@ -20,46 +20,29 @@
 
 
 ## 介绍
-**wxmall商城是基于Php5.6+[htdocs](https://github.com/oldhand/htdocs)+[tezancloud](https://github.com/oldhand/tezancloud)开发的一套电商系统，支持首页装修，支持多种运营模式，菜单化配置，包含商城、砍价、秒杀、积分、分销等功能，更适合企业二次开发。**
+**wxmall商城是基于VUE+[tezancloud](https://github.com/oldhand/tezancloud)开发的一套电商系统。**
  
  
 ## DEMO
-<table>
-<tr>
- <th>展示地址</td>
- <th>描述</td>
-</tr>
-<tr>
- <td>http://f2c.tezan.cn/t1.php</td>
- <td>铜官印象 展示公众号(同时支持微信与PC端)</td>
-</tr>
-<tr>
- <td>http://f2c.tezan.cn/t2.php</td>
- <td>大印湘西 展示公众号(同时支持微信与PC端)</td>
-</tr>
-<tr>
- <td>http://f2c.tezan.cn/t3.php</td>
- <td>若米家 展示公众号(同时支持微信与PC端)</td>
-</tr>
-</table>
+http://mall.tezan.cn/test.php
 
 ## 图片展示
  
 <table>
 <tr>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_romijia_home.jpg" width="300"></td>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_romijia_category.jpg" width="300"></td>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_usercenter.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_home.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_category.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_shoppingcart.jpg" width="300"></td>
 </tr>
 <tr>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_shoppingcart.jpg" width="300"></td>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_confirmpayment.jpg" width="300"></td>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_promotioncenter.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_usercenter.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_accountbook.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/vuemall/vuemall_billwater.jpg" width="300"></td>
 </tr>
 <tr>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_myorders.jpg" width="300"></td>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_dayingxiangxi.jpg" width="300"></td>
- <td><img src="https://github.com/oldhand/images/raw/master/wxmall/wx_tengguang.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/wxmall/vuemall_receipt.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/wxmall/vuemall_sendout.jpg" width="300"></td>
+ <td><img src="https://github.com/oldhand/images/raw/master/wxmall/vuemall_takecash.jpg" width="300"></td>
 </tr>
 </table>
 
